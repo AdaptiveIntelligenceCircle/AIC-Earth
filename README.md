@@ -6,7 +6,7 @@ Adaptive OS → Edge → Agents → DePIN. For the world : climate modeling, rem
 </p>
 
 <p align="center">
-  <strong> Human Meaning Network </strong><br>
+  <strong> AIC-Earth </strong><br>
   Decentralized nodes • Ethical scaling • Planetary readiness
 </p>
 

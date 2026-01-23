@@ -1,7 +1,14 @@
 # AIC-Earth
 Adaptive OS → Edge → Agents → DePIN. For the world : climate modeling, remote healthcare, intelligent transportation, smart aerospace.
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/45142c86-39eb-4f4b-b2f1-549b74788f93" />
+<p align="center">
+  <img src="assets/AIC-Earth.png" alt="AIC Logo" width="1024" length = "1024"/>
+</p>
+
+<p align="center">
+  <strong> Human Meaning Network </strong><br>
+  Decentralized nodes • Ethical scaling • Planetary readiness
+</p>
 
 # **AIC-Earth Manifesto**
 
